@@ -55,8 +55,6 @@ java --module-path "C:/javafx-sdk/lib" --add-modules javafx.controls -cp out Mai
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 Here’s what the DFS Visualizer looks like in action:
 
 ![DFS Visualizer Screenshot](assets/screenshot.png)
