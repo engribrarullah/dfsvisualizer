@@ -36,8 +36,4 @@ A modern, easy-to-use JavaFX desktop application to visualize **Depth First Sear
 ```bash
 javac --module-path "C:/javafx-sdk/lib" --add-modules javafx.controls -d out src/*.java
 
-### 3. Run the Application
 
-```bash
-java --module-path "C:/javafx-sdk/lib" --add-modules javafx.controls -cp out Main
-# 💡 Note: Replace "C:/javafx-sdk/lib" with your actual JavaFX SDK path.
